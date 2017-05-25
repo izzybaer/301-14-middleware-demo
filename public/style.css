@@ -1,1 +1,27 @@
 /*Button styling!*/
+
+* {
+  font-family: Helvetica, san-serif;
+}
+
+h2 {
+  font-size: 1.2em;
+}
+
+input {
+  width: 50px;
+}
+
+li {
+  list-style-type: none;
+  display: inline;
+}
+
+button {
+  font-size: 2em;
+}
+
+#buttoncode {
+  font-family: Courier;
+  background-color: lightgray;
+}
